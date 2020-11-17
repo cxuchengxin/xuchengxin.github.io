@@ -5,7 +5,7 @@ permalink: /working_projects/
 author_profile: true
 ---
 
-###Unpacking Nonprofit Autonomy-Interdependence Paradox in Collaborative Relationships. With Mirae Kim.
+### Unpacking Nonprofit Autonomy-Interdependence Paradox in Collaborative Relationships. With Mirae Kim.
 
 Nonprofit organizations interested in collaborating with other entities find it difficult to strike a balance between keeping their autonomy and reaping the benefits from collaborating with other organizations. Although inter-organizational collaborations come with various benefits, such as reducing competition over limited resources, participating in collaborative relationships can also damage the autonomy of individual nonprofits. Using an original survey of 275 nonprofits, we examine how various dimensions of collaborative relationships affect an individual nonprofit’s autonomy. Our findings suggest that having highly specified administrative arrangements and stronger trust as well as reciprocity among partner organizations serve as critical factors to secure the autonomy of individual organizations. We also find that nonprofit organizations engaged in mostly informal relationships and in partnerships across sectors feel less threatened about maintaining their autonomy. Our post-hoc analysis further suggests that organizational autonomy is a significant antecedent for seeking more collaborations. To this end, we discuss how nonprofits can keep their organizational autonomy without giving up collaborating with other entities by strategically managing several aspects of the collaborative relationships. 
 
