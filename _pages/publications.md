@@ -22,8 +22,3 @@ author_profile: true
 ## Book Chapters and Others
 #### Experiential Philanthropy in _Global Encyclopaedia of Public Administration, Public Policy, and Governance_. Springer Publication. With Huafang Li and Lindsey McDougle.
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
