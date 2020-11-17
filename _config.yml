@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "https://twitter.com/Chengxin_M_Xu"
+  username               : "Chengxin_M_Xu"
 facebook:
   username               :
   app_id                 :
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Xu Chengxin"
   avatar           : "profile.png"
-  bio              : "Assistant Professor at Seattle University"
+  bio              : "Assistant Professor"
   location         : "Seattle, WA"
-  employer         :
+  employer         : "Seattle University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=PDN7A5sAAAAJ&hl=en&oi=ao"
-  email            : "cxu1(at)seattleu.edu"
+  email            : "cxu1@seattleu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
