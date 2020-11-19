@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xu Chengxin's Website"
+title                    : "Chengxin Xu's Website"
 title_separator          : "-"
-name                     : &name "Xu Chengxin"
+name                     : &name "Chengxin Xu"
 description              : &description "Assistant professor, Seattle University"
 url                      :  "https://cxuchengxin.github.io/website" # Don't change.
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
