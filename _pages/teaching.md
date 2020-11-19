@@ -21,7 +21,9 @@ author_profile: true
 
 - Introduction to Nonprofit Administration
 
-### Applied Research Design
+### Graduate level
+
+- Applied Research Design
 
 ### Doctoral level
 
