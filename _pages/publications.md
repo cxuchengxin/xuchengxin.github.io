@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 ## Journal Articles
 
-* Loss or Gain? Unpacking the Nonprofit Autonomy-Interdependence Paradox in Collaborations. With Mirae Kim. Forthcoming at _American Public Administration Review_. <a href="10.13140/RG.2.2.14904.37125" target="_blank"><u>[Pre-print: Research Gate]</u></a>
+* Loss or Gain? Unpacking the Nonprofit Autonomy-Interdependence Paradox in Collaborations. With Mirae Kim. Forthcoming at _American Public Administration Review_. <a href="https://www.researchgate.net/publication/346928554_Loss_or_Gain_Unpacking_the_Nonprofit_Autonomy-Interdependence_Paradox_in_Collaborations?channel=doi&linkId=5fd2667792851c00f8661419&showFulltext=true" target="_blank"><u>[Pre-print: Research Gate]</u></a>
 
 * The Perceived Differences: The Sector Stereotypes of Social Service Providers. _Nonprofit and Voluntary Sector Quarterly_. Online first. <a href="https://journals.sagepub.com/doi/full/10.1177/0899764020925903?casa_token=qlz9_3X2WT0AAAAA%3Ab0AEksTMES7VNfdAd_s8Ijh2_h-Kr-fQkWDsCvZXj4d04s7AsldRzLJZChp3TZETxIsCg8gT4JQ" target="_blank"><u>[Post-print]</u></a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3733965" target="_blank"><u>[Pre-print: SSRN]</u></a>
 
