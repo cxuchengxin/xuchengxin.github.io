@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.4.1)  14 DEC 2020 10:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.4.1)  16 FEB 2021 14:13
 entering extended mode
 **./Chengxin_CV.tex
 (Chengxin_CV.tex
@@ -257,7 +257,7 @@ Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \tabu@vleads=\box51
 \tabu@cellskip=\skip52
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 36.
+Package hyperref Info: Option `colorlinks' set `true' on input line 37.
 
 ("C:\Users\Chengxin Xu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/sectsty\sect
 sty.sty"
@@ -281,24 +281,24 @@ File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
 ) (Chengxin_CV.aux)
 \openout1 = `Chengxin_CV.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 74.
-LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 75.
+LaTeX Font Info:    ... okay on input line 75.
 LaTeX Font Info:    Trying to load font information for T1+pplj on input line 7
-4.
+5.
 
 ("C:\Users\Chengxin Xu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\t1ppl
 j.fd"
@@ -335,7 +335,7 @@ supp-pdf.mkii"
 \makeMPintoPDFobject=\count268
 \everyMPtoPDFconversion=\toks21
 )))
-Package hyperref Info: Link coloring ON on input line 74.
+Package hyperref Info: Link coloring ON on input line 75.
 
 ("C:\Users\Chengxin Xu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nam
 eref.sty"
@@ -351,9 +351,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count269
 )
-LaTeX Info: Redefining \ref on input line 74.
-LaTeX Info: Redefining \pageref on input line 74.
-LaTeX Info: Redefining \nameref on input line 74.
+LaTeX Info: Redefining \ref on input line 75.
+LaTeX Info: Redefining \pageref on input line 75.
+LaTeX Info: Redefining \nameref on input line 75.
  (Chengxin_CV.out) (Chengxin_CV.out)
 \@outlinefile=\write3
 \openout3 = `Chengxin_CV.out'.
@@ -395,48 +395,48 @@ LaTeX Info: Redefining \nameref on input line 74.
 
 \big@size=\dimen162
 LaTeX Font Info:    Trying to load font information for OT1+pplx on input line 
-101.
+102.
 
 ("C:\Users\Chengxin Xu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1pp
 lx.fd"
 File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 )
 LaTeX Font Info:    Trying to load font information for OML+zplm on input line 
-101.
+102.
 
 ("C:\Users\Chengxin Xu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omlzp
 lm.fd"
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 
-101.
+102.
 
 ("C:\Users\Chengxin Xu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omszp
 lm.fd"
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 
-101.
+102.
 
 ("C:\Users\Chengxin Xu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omxzp
 lm.fd"
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
-101.
+102.
 
 ("C:\Users\Chengxin Xu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1zp
 lm.fd"
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
-06.
+07.
 
 ("C:\Users\Chengxin Xu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1cmtt.
 fd"
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-Overfull \hbox (49.16298pt too wide) in paragraph at lines 103--109
+Overfull \hbox (49.16298pt too wide) in paragraph at lines 104--110
 [][] 
  []
 
@@ -471,7 +471,7 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 422.
 Here is how much of TeX's memory you used:
  6750 strings out of 480931
  105345 string characters out of 2896980
- 373322 words of memory out of 3000000
+ 372322 words of memory out of 3000000
  22460 multiletter control sequences out of 15000+200000
  564531 words of font info for 69 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -486,7 +486,7 @@ Xu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Us
 ers/Chengxin Xu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplr
 8a.pfb><C:/Users/Chengxin Xu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/
 palatino/uplri8a.pfb>
-Output written on Chengxin_CV.pdf (5 pages, 128107 bytes).
+Output written on Chengxin_CV.pdf (5 pages, 128076 bytes).
 PDF statistics:
  126 PDF objects out of 1000 (max. 8388607)
  36 named destinations out of 1000 (max. 500000)
