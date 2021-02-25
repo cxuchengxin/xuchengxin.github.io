@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello!"
+title: "About Chengxin Xu (许承昕)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
