@@ -10,11 +10,11 @@ author_profile: true
 {% endif %}
 ## Journal Articles
 
-* Resource Publicness Matters in Organizational Perceptions. With Huafang Li. _Public Administration Review._<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/puar.13369" target="_blank"><u>[Post-print]</u></a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3797215" target="_blank"><u>[Pre-print: SSRN]</u></a> 
+* Resource Publicness Matters in Organizational Perceptions. With Huafang Li. _Public Administration Review. 2021. _<a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/puar.13369" target="_blank"><u>[Post-print]</u></a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3797215" target="_blank"><u>[Pre-print: SSRN]</u></a> 
 
-* Messenger Effects in COVID-19 Communication: Does the Level of Government Matter? With Nathan Favero, Sebastian Jilke, Mathew Young, and Julia Wolfson. _Health Policy OPEN_. <a href="https://doi.org/10.1016/j.hpopen.2020.100027" target="_blank"><u>[Post-print]</u></a>
+* Messenger Effects in COVID-19 Communication: Does the Level of Government Matter? With Nathan Favero, Sebastian Jilke, Mathew Young, and Julia Wolfson. _Health Policy OPEN_. 2021. <a href="https://doi.org/10.1016/j.hpopen.2020.100027" target="_blank"><u>[Post-print]</u></a>
 
-* Loss or Gain? Unpacking the Nonprofit Autonomy-Interdependence Paradox in Collaborations. With Mirae Kim. _American Public Administration Review_. <a href="https://doi.org/10.1177/0275074020983802" target="_blank"><u>[Post-print]</u></a> <a href="https://www.researchgate.net/publication/346928554_Loss_or_Gain_Unpacking_the_Nonprofit_Autonomy-Interdependence_Paradox_in_Collaborations?channel=doi&linkId=5fd2667792851c00f8661419&showFulltext=true" target="_blank"><u>[Pre-print: Research Gate]</u></a> 
+* Loss or Gain? Unpacking the Nonprofit Autonomy-Interdependence Paradox in Collaborations. With Mirae Kim. _American Public Administration Review_. 2021. <a href="https://doi.org/10.1177/0275074020983802" target="_blank"><u>[Post-print]</u></a> <a href="https://www.researchgate.net/publication/346928554_Loss_or_Gain_Unpacking_the_Nonprofit_Autonomy-Interdependence_Paradox_in_Collaborations?channel=doi&linkId=5fd2667792851c00f8661419&showFulltext=true" target="_blank"><u>[Pre-print: Research Gate]</u></a> 
 
 * The Perceived Differences: The Sector Stereotypes of Social Service Providers. _Nonprofit and Voluntary Sector Quarterly_. Vol. 49, Iss 6, 2020, pp. 1293-1310. <a href="https://journals.sagepub.com/doi/full/10.1177/0899764020925903?casa_token=qlz9_3X2WT0AAAAA%3Ab0AEksTMES7VNfdAd_s8Ijh2_h-Kr-fQkWDsCvZXj4d04s7AsldRzLJZChp3TZETxIsCg8gT4JQ" target="_blank"><u>[Post-print]</u></a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3733965" target="_blank"><u>[Pre-print: SSRN]</u></a>
 
