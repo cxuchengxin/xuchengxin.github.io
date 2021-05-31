@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.4.1)  15 APR 2021 14:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.4.1)  31 MAY 2021 15:14
 entering extended mode
 **./Chengxin_CV.tex
 (Chengxin_CV.tex
@@ -359,22 +359,136 @@ LaTeX Info: Redefining \nameref on input line 75.
 \openout3 = `Chengxin_CV.out'.
 
 
-! I can't write on file `Chengxin_CV.pdf'.
-Please type another file name for output
-! Emergency stop.
-<to be read again> 
-                   \edef 
-l.75 \begin{document}
-                     
-*** (job aborted, file error in nonstop mode)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75499pt, 72.27002pt)
+* v-part:(T,H,B)=(90.3375pt, 614.295pt, 90.3375pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75499pt
+* \textheight=614.295pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-18.9325pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemargintrue
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
- 
+\big@size=\dimen162
+LaTeX Font Info:    Trying to load font information for OT1+pplx on input line 
+102.
+
+("C:\Users\Chengxin Xu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1pp
+lx.fd"
+File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
+)
+LaTeX Font Info:    Trying to load font information for OML+zplm on input line 
+102.
+
+("C:\Users\Chengxin Xu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omlzp
+lm.fd"
+File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
+)
+LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 
+102.
+
+("C:\Users\Chengxin Xu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omszp
+lm.fd"
+File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
+)
+LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 
+102.
+
+("C:\Users\Chengxin Xu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omxzp
+lm.fd"
+File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
+)
+LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
+102.
+
+("C:\Users\Chengxin Xu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1zp
+lm.fd"
+File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
+)
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
+07.
+
+("C:\Users\Chengxin Xu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1cmtt.
+fd"
+File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+Overfull \hbox (49.16298pt too wide) in paragraph at lines 104--110
+[][] 
+ []
+
+[1
+
+{C:/Users/Chengxin Xu/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+LaTeX Font Info:    Font shape `T1/pplj/m/sl' in size <10> not available
+(Font)              Font shape `T1/pplj/m/it' tried instead on input line 223.
+
+[2] [3]
+Overfull \hbox (7.19476pt too wide) in paragraph at lines 319--320
+[]\T1/pplj/m/it/10 Diversity Scholar\T1/pplj/m/n/10 , As-so-ci-a-tion for Re-se
+arch on Non-profit Or-ga-ni-za-tions and Vol-un-tary Ac-tion (ARNOVA),
+ []
+
+[4]
+Overfull \hbox (7.78488pt too wide) in paragraph at lines 323--324
+[]\T1/pplj/m/it/10 Teaching As-sis-tant and Grad-u-ate As-sis-tant Pro-fes-sion
+al De-vel-op-ment Fund Award\T1/pplj/m/n/10 , Rut-gers University-Newark,
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 421.
+[5]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 421.
+ (Chengxin_CV.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 421.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 421.
+Package rerunfilecheck Info: File `Chengxin_CV.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 421.
+ ) 
 Here is how much of TeX's memory you used:
- 6556 strings out of 480931
- 101970 string characters out of 2896980
- 365902 words of memory out of 3000000
- 22350 multiletter control sequences out of 15000+200000
- 534815 words of font info for 26 fonts, out of 3000000 for 9000
+ 6750 strings out of 480931
+ 105345 string characters out of 2896980
+ 372322 words of memory out of 3000000
+ 22460 multiletter control sequences out of 15000+200000
+ 564531 words of font info for 69 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,0n,29p,222b,260s stack positions out of 5000i,500n,10000p,200000b,50000s
-!  ==> Fatal error occurred, no output PDF file produced!
+ 34i,8n,29p,350b,387s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Chengxin Xu/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/
+8r.enc} <C:\Users\Chengxin Xu\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen
+/ec/dpi600\ectt1000.pk><C:/Users/Chengxin Xu/AppData/Local/Programs/MiKTeX 2.9/
+fonts/type1/public/fpl/fplbj8a.pfb><C:/Users/Chengxin Xu/AppData/Local/Programs
+/MiKTeX 2.9/fonts/type1/public/fpl/fplrc8a.pfb><C:/Users/Chengxin Xu/AppData/Lo
+cal/Programs/MiKTeX 2.9/fonts/type1/public/fpl/fplrij8a.pfb><C:/Users/Chengxin 
+Xu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Us
+ers/Chengxin Xu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplr
+8a.pfb><C:/Users/Chengxin Xu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/
+palatino/uplri8a.pfb>
+Output written on Chengxin_CV.pdf (5 pages, 125353 bytes).
+PDF statistics:
+ 117 PDF objects out of 1000 (max. 8388607)
+ 36 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
