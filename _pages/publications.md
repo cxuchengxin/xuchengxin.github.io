@@ -10,6 +10,8 @@ author_profile: true
 {% endif %}
 ## Journal Articles
 
+* Does Mislabeling COVID-19 Elicit the Perception of Threat and Reduce Blame? With Yixin Liu. _Journal of Behavioral Public Administration_. 2021. <a href="https://doi.org/10.30636/jbpa.42.225" target="_blank"><u>[Post-print: Open Access]</u></a>
+
 * Resource Publicness Matters in Organizational Perceptions. With Huafang Li. _Public Administration Review_. 2021. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/puar.13369" target="_blank"><u>[Post-print]</u></a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3797215" target="_blank"><u>[Pre-print: SSRN]</u></a> 
 
 * Messenger Effects in COVID-19 Communication: Does the Level of Government Matter? With Nathan Favero, Sebastian Jilke, Mathew Young, and Julia Wolfson. _Health Policy OPEN_. 2021. <a href="https://doi.org/10.1016/j.hpopen.2020.100027" target="_blank"><u>[Post-print]</u></a>
