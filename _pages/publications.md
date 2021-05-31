@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 ## Journal Articles
 
-* Does Mislabeling COVID-19 Elicit the Perception of Threat and Reduce Blame? With Yixin Liu. _Journal of Behavioral Public Administration_. 2021. <a href="https://doi.org/10.30636/jbpa.42.225" target="_blank"><u>[Post-print: Open Access]</u></a>
+* Does Mislabeling COVID-19 Elicit the Perception of Threat and Reduce Blame? With Yixin Liu. _Journal of Behavioral Public Administration_. 2021. <a href="https://doi.org/10.30636/jbpa.42.225" target="_blank"><u>[Post-print: Open Access]</u></a> <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/CDUROD" target="_blank"><u>[Replication Materials]</u></a>
 
 * Resource Publicness Matters in Organizational Perceptions. With Huafang Li. _Public Administration Review_. 2021. <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/puar.13369" target="_blank"><u>[Post-print]</u></a> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3797215" target="_blank"><u>[Pre-print: SSRN]</u></a> 
 
