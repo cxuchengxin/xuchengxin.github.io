@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.4.1)  31 MAY 2021 15:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=pdflatex 2020.4.1)  9 JUL 2021 11:40
 entering extended mode
 **./Chengxin_CV.tex
 (Chengxin_CV.tex
@@ -197,6 +197,27 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
 ("C:\Users\Chengxin Xu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geo
 metry.cfg"))
+("C:\Users\Chengxin Xu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/etaremune\et
+aremune.sty"
+Package: etaremune 2005/06/01 v1.2 Reversed enumerate (HA)
+
+("C:\Users\Chengxin Xu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xkeyval\xkey
+val.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Users\Chengxin Xu\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xk
+eyval.tex"
+("C:\Users\Chengxin Xu\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xk
+vutils.tex"
+\XKV@toks=\toks17
+\XKV@tempa@toks=\toks18
+)
+\XKV@depth=\count188
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+\c@EM@itemctr=\count189
+\c@EM@etaremunectr=\count190
+)
 ("C:\Users\Chengxin Xu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc
 .sty"
 Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
@@ -209,7 +230,7 @@ Package: mathpazo 2020/03/25 PSNFSS-v9.3 Palatino w/ Pazo Math (D.Puga, WaS)
 ("C:\Users\Chengxin Xu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/marginnote\m
 arginnote.sty"
 Package: marginnote 2018/08/09 v1.4b non floating margin notes for LaTeX
-\c@mn@abspage=\count188
+\c@mn@abspage=\count191
 )
 ("C:\Users\Chengxin Xu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tabu\tabu.st
 y"
@@ -221,7 +242,7 @@ Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \col@sep=\dimen147
 \ar@mcellbox=\box45
 \extrarowheight=\dimen148
-\NC@list=\toks17
+\NC@list=\toks19
 \extratabsurround=\skip50
 \backup@length=\skip51
 \ar@cellbox=\box46
@@ -230,16 +251,16 @@ Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 width.sty"
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box47
-\sift@deathcycles=\count189
+\sift@deathcycles=\count192
 \@vwid@loff=\dimen149
 \@vwid@roff=\dimen150
 )
-\c@taburow=\count190
-\tabu@nbcols=\count191
-\tabu@cnt=\count192
-\tabu@Xcol=\count193
-\tabu@alloc=\count194
-\tabu@nested=\count195
+\c@taburow=\count193
+\tabu@nbcols=\count194
+\tabu@cnt=\count195
+\tabu@Xcol=\count196
+\tabu@alloc=\count197
+\tabu@nested=\count198
 \tabu@target=\dimen151
 \tabu@spreadtarget=\dimen152
 \tabu@naturalX=\dimen153
@@ -249,15 +270,15 @@ Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \abovetabulinesep=\dimen157
 \belowtabulinesep=\dimen158
 \tabustrutrule=\dimen159
-\tabu@thebody=\toks18
-\tabu@footnotes=\toks19
+\tabu@thebody=\toks20
+\tabu@footnotes=\toks21
 \tabu@box=\box48
 \tabu@arstrutbox=\box49
 \tabu@hleads=\box50
 \tabu@vleads=\box51
 \tabu@cellskip=\skip52
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 37.
+Package hyperref Info: Option `colorlinks' set `true' on input line 38.
 
 ("C:\Users\Chengxin Xu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/sectsty\sect
 sty.sty"
@@ -276,29 +297,29 @@ LaTeX Warning: Command \underline  has changed.
 ("C:\Users\Chengxin Xu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3
 backend-pdfmode.def"
 File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count196
+\l__kernel_color_stack_int=\count199
 \l__pdf_internal_box=\box52
 ) (Chengxin_CV.aux)
 \openout1 = `Chengxin_CV.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
 LaTeX Font Info:    Trying to load font information for T1+pplj on input line 7
-5.
+6.
 
 ("C:\Users\Chengxin Xu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\t1ppl
 j.fd"
@@ -323,19 +344,19 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ("C:\Users\Chengxin Xu\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\
 supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count197
+\scratchcounter=\count266
 \scratchdimen=\dimen160
 \scratchbox=\box54
-\nofMPsegments=\count198
-\nofMParguments=\count199
-\everyMPshowfont=\toks20
-\MPscratchCnt=\count266
+\nofMPsegments=\count267
+\nofMParguments=\count268
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count269
 \MPscratchDim=\dimen161
-\MPnumerator=\count267
-\makeMPintoPDFobject=\count268
-\everyMPtoPDFconversion=\toks21
+\MPnumerator=\count270
+\makeMPintoPDFobject=\count271
+\everyMPtoPDFconversion=\toks23
 )))
-Package hyperref Info: Link coloring ON on input line 75.
+Package hyperref Info: Link coloring ON on input line 76.
 
 ("C:\Users\Chengxin Xu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nam
 eref.sty"
@@ -349,11 +370,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ring\gettitlestring.sty"
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count269
+\c@section@level=\count272
 )
-LaTeX Info: Redefining \ref on input line 75.
-LaTeX Info: Redefining \pageref on input line 75.
-LaTeX Info: Redefining \nameref on input line 75.
+LaTeX Info: Redefining \ref on input line 76.
+LaTeX Info: Redefining \pageref on input line 76.
+LaTeX Info: Redefining \nameref on input line 76.
  (Chengxin_CV.out) (Chengxin_CV.out)
 \@outlinefile=\write3
 \openout3 = `Chengxin_CV.out'.
@@ -395,48 +416,48 @@ LaTeX Info: Redefining \nameref on input line 75.
 
 \big@size=\dimen162
 LaTeX Font Info:    Trying to load font information for OT1+pplx on input line 
-102.
+103.
 
 ("C:\Users\Chengxin Xu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1pp
 lx.fd"
 File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
 )
 LaTeX Font Info:    Trying to load font information for OML+zplm on input line 
-102.
+103.
 
 ("C:\Users\Chengxin Xu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omlzp
 lm.fd"
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 
-102.
+103.
 
 ("C:\Users\Chengxin Xu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omszp
 lm.fd"
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 
-102.
+103.
 
 ("C:\Users\Chengxin Xu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omxzp
 lm.fd"
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
-102.
+103.
 
 ("C:\Users\Chengxin Xu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1zp
 lm.fd"
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
-07.
+08.
 
 ("C:\Users\Chengxin Xu\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t1cmtt.
 fd"
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-Overfull \hbox (49.16298pt too wide) in paragraph at lines 104--110
+Overfull \hbox (49.16298pt too wide) in paragraph at lines 105--111
 [][] 
  []
 
@@ -444,38 +465,38 @@ Overfull \hbox (49.16298pt too wide) in paragraph at lines 104--110
 
 {C:/Users/Chengxin Xu/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 LaTeX Font Info:    Font shape `T1/pplj/m/sl' in size <10> not available
-(Font)              Font shape `T1/pplj/m/it' tried instead on input line 223.
+(Font)              Font shape `T1/pplj/m/it' tried instead on input line 224.
 
-[2] [3]
-Overfull \hbox (7.19476pt too wide) in paragraph at lines 319--320
+[2] [3] [4]
+Overfull \hbox (7.19476pt too wide) in paragraph at lines 322--323
 []\T1/pplj/m/it/10 Diversity Scholar\T1/pplj/m/n/10 , As-so-ci-a-tion for Re-se
 arch on Non-profit Or-ga-ni-za-tions and Vol-un-tary Ac-tion (ARNOVA),
  []
 
-[4]
-Overfull \hbox (7.78488pt too wide) in paragraph at lines 323--324
+
+Overfull \hbox (7.78488pt too wide) in paragraph at lines 326--327
 []\T1/pplj/m/it/10 Teaching As-sis-tant and Grad-u-ate As-sis-tant Pro-fes-sion
 al De-vel-op-ment Fund Award\T1/pplj/m/n/10 , Rut-gers University-Newark,
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 421.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 424.
 [5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 421.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 424.
  (Chengxin_CV.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 421.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 421.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 424.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 424.
 Package rerunfilecheck Info: File `Chengxin_CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 421.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 424.
  ) 
 Here is how much of TeX's memory you used:
- 6750 strings out of 480931
- 105345 string characters out of 2896980
- 373322 words of memory out of 3000000
- 22460 multiletter control sequences out of 15000+200000
+ 7021 strings out of 480931
+ 109955 string characters out of 2896980
+ 378111 words of memory out of 3000000
+ 22717 multiletter control sequences out of 15000+200000
  564531 words of font info for 69 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,8n,29p,350b,387s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 34i,8n,64p,350b,434s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Chengxin Xu/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/
 8r.enc} <C:\Users\Chengxin Xu\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen
 /ec/dpi600\ectt1000.pk><C:/Users/Chengxin Xu/AppData/Local/Programs/MiKTeX 2.9/
@@ -486,7 +507,7 @@ Xu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Us
 ers/Chengxin Xu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplr
 8a.pfb><C:/Users/Chengxin Xu/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/
 palatino/uplri8a.pfb>
-Output written on Chengxin_CV.pdf (5 pages, 125592 bytes).
+Output written on Chengxin_CV.pdf (5 pages, 125730 bytes).
 PDF statistics:
  117 PDF objects out of 1000 (max. 8388607)
  36 named destinations out of 1000 (max. 500000)
